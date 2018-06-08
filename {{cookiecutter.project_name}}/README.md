@@ -4,7 +4,7 @@ Unix: [![Unix Build Status](https://img.shields.io/travis/{{cookiecutter.github_
 
 {{cookiecutter.project_short_description}}
 
-This project was generated with [cookiecutter](https://github.com/audreyr/cookiecutter) using [jacebrowning/template-python](https://github.com/jacebrowning/template-python).
+This project was generated with [cookiecutter](https://github.com/audreyr/cookiecutter) using [profilech/.cookiecutter-template-python](https://github.com/profilech/.cookiecutter-template-python).
 
 # Setup
 
